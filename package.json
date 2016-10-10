@@ -4,13 +4,14 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "test": "for t in test/*.js; do echo $t; node $t; done"
+    "test": "mocha"
   },
   "dependencies": {
     "eslint-config-fxa": "2"
   },
   "devDependencies": {
-    "eslint": "3"
+    "eslint": "3",
+    "mocha": "3"
   },
   "repository": {
     "type": "git",
