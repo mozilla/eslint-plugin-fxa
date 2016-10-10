@@ -1,3 +1,5 @@
+language: nodejs
+
 node:
   - 4
   - 6
