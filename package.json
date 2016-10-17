@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seanmonstar/eslint-plugin-fxa.git"
+    "url": "git+https://github.com/mozilla/eslint-plugin-fxa.git"
   },
-  "author": "Sean McArthur <sean.monstar@gmail.com> (http://seanmonstar.com)",
+  "author": "Mozilla (https://mozilla.org)",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/seanmonstar/eslint-plugin-fxa/issues"
+    "url": "https://github.com/mozilla/eslint-plugin-fxa/issues"
   },
-  "homepage": "https://github.com/seanmonstar/eslint-plugin-fxa#readme"
+  "homepage": "https://github.com/mozilla/eslint-plugin-fxa#readme"
 }
