@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "eslint": "3",
-    "mocha": "3"
+    "mocha": "3",
+    "eslint-plugin-mocha": "^4.9.0"
   },
   "repository": {
     "type": "git",
