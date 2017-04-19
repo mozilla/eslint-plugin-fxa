@@ -7,11 +7,11 @@
     "test": "mocha"
   },
   "dependencies": {
+    "eslint-plugin-mocha": "4.9.0"
   },
   "devDependencies": {
     "eslint": "3",
-    "mocha": "3",
-    "eslint-plugin-mocha": "4.9.0"
+    "mocha": "3"
   },
   "repository": {
     "type": "git",
