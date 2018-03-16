@@ -7,7 +7,6 @@
     "test": "mocha"
   },
   "dependencies": {
-    "eslint-plugin-node": "6"
   },
   "devDependencies": {
     "eslint": "3",
