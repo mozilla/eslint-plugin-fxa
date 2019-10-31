@@ -10,7 +10,7 @@
     "ramda": "0.25.0"
   },
   "devDependencies": {
-    "eslint": "3",
+    "eslint": "6",
     "mocha": "3"
   },
   "repository": {
