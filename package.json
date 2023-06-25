@@ -7,12 +7,12 @@
     "test": "mocha"
   },
   "dependencies": {
-    "eslint": "6.6.0",
+    "eslint": "8.43.0",
     "eslint-config-prettier": "6.5.0",
     "ramda": "^0.26.1"
   },
   "devDependencies": {
-    "mocha": "6.2.2"
+    "mocha": "10.2.0"
   },
   "peerDependencies": {
     "eslint": ">=6.6.0"
